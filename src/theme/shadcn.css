@@ -1,0 +1,21 @@
+/* src/theme/shadcn.css */
+.shadcn-container {
+  background-color: #f9fafb;
+  color: #111827;
+  min-height: 100vh;
+  padding: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.shadcn-button {
+  background-color: #3b82f6;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.shadcn-button:hover {
+  background-color: #2563eb;
+}
